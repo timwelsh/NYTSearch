@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: #101052;
+    color: whitesmoke;
+}
+#content{
+    padding: 30px;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+   }
